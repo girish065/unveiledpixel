@@ -123,7 +123,7 @@ export const transformationTypes = {
   restore: {
     type: "restore",
     title: "Restore Image",
-    subTitle: "Refine images by removing noise and imperfections",
+    subTitle: "Redefine your images by removing noise and defects",
     config: { restore: true },
     icon: "image.svg",
   },
